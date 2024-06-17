@@ -1,6 +1,9 @@
 # 💫 About Me:
-🌱 Şu anda **Flutter** ve **Makine Öğrenmesi** üzerine çalışıyorum.<br>👯 İşbirliği yapmak istediğim projeler: **Açık kaynak yazılım projeleri, Flutter ve makine öğrenmesi projeleri**.<br>💬 Bana **yazılım geliştirme** hakkında soru sorabilirsiniz.<br>📫 Bana nasıl ulaşabilirsiniz: **semanurozyilmaz9@gmail.com**<br>⚡ Eğlenceli gerçek: Boş zamanlarımda **yeni teknolojileri öğrenmeyi** ve **kitap okumayı** seviyorum.
-
+🌱 I am currently working on Flutter and Machine Learning.<br>
+👯 Projects I'm interested in collaborating on: Open source software projects, Flutter, and machine learning projects.<br>
+💬 Feel free to ask me questions about software development.<br>
+📫 You can reach me at: semanurozyilmaz9@gmail.com<br>
+⚡ Fun fact: In my spare time, I enjoy learning about new technologies and reading books.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semanurozyilmaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@semanurzy) 
